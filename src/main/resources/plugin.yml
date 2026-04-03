@@ -1,5 +1,5 @@
-name: ProjectName
+name: LushYaml
 version: ${project.version}
-main: org.lushplugins.projectname.ProjectName
+main: org.lushplugins.lushyaml.LushYaml
 api-version: '1.21'
-github-repo: ProjectOwner/ProjectName
+github-repo: ProjectOwner/LushYaml
